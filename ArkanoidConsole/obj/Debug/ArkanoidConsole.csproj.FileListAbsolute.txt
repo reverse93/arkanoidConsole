@@ -1,0 +1,6 @@
+C:\Users\Ula\documents\visual studio 2015\Projects\ArkanoidConsole\ArkanoidConsole\bin\Debug\ArkanoidConsole.exe.config
+C:\Users\Ula\documents\visual studio 2015\Projects\ArkanoidConsole\ArkanoidConsole\bin\Debug\ArkanoidConsole.exe
+C:\Users\Ula\documents\visual studio 2015\Projects\ArkanoidConsole\ArkanoidConsole\bin\Debug\ArkanoidConsole.pdb
+C:\Users\Ula\documents\visual studio 2015\Projects\ArkanoidConsole\ArkanoidConsole\obj\Debug\ArkanoidConsole.csprojResolveAssemblyReference.cache
+C:\Users\Ula\documents\visual studio 2015\Projects\ArkanoidConsole\ArkanoidConsole\obj\Debug\ArkanoidConsole.exe
+C:\Users\Ula\documents\visual studio 2015\Projects\ArkanoidConsole\ArkanoidConsole\obj\Debug\ArkanoidConsole.pdb
